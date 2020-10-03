@@ -1,0 +1,14 @@
+[package]
+name = "shigens"
+description = "A math library for calculate quaternion."
+version = "0.1.0"
+authors = ["Kanichi Uegaki <kan1.921017@gmail.com>"]
+license = "MIT"
+homepage = "https://github.com/kan1-u/shigens"
+keywords = ["quaternion", "mathematics", "numerics"]
+readme = "README.md"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
