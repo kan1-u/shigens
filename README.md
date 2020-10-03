@@ -10,7 +10,7 @@ x = 1 + 2i + 3j + 4k
 
 in `shigens` can write like this.
 
-```
+```rust
 use shigens::*;
 
 let x = quaternion(1, 2, 3, 4);
